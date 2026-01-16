@@ -1,6 +1,6 @@
 # Web Tracking Forensics
 
-## 📘 Opis projekta
+## Opis projekta
 Ovaj projekt istražuje kako kolačići (cookies) i skripte prate korisnike na internetu.  
 Cilj je izraditi sustav koji:
 1. Nadgleda mrežni promet i otkriva praćenje (cookie-based i cookie-less).  
@@ -8,20 +8,20 @@ Cilj je izraditi sustav koji:
 3. Sprema podatke u bazu radi kasnije analize.  
 4. Vizualizira veze između web stranica i trećih strana koje prate korisnika.
 
-## 👥 Članovi tima
+## Članovi tima
 - Student 1 – Analiza mrežnog prometa  
 - Student 2 – Baza podataka i backend  
 - Student 3 – Detekcija i klasifikacija trackera  
 - Student 4 – Vizualizacija i izvještavanje
 
-## 🧠 Cilj projekta
+## Cilj projekta
 Razviti okvir (framework) koji omogućuje:
 - Praćenje i prikupljanje podataka o mrežnim zahtjevima.  
 - Detekciju različitih oblika praćenja korisnika.  
 - Pohranu prikupljenih informacija u bazu podataka.  
 - Prikaz odnosa između web stranica i trackera putem grafova.
 
-## 🗂️ Struktura projekta
+## Struktura projekta
 project-name/
 │
 ├── README.md
@@ -48,14 +48,14 @@ project-name/
 
 
 
-## ⚙️ Pokretanje projekta
+##  Pokretanje projekta
 Upute za pokretanje bit će dodane u datoteku `implementation/setup.md`.
 
-## 📄 Dokumentacija
+##  Dokumentacija
 Teorijski dio, plan i završno izvješće nalaze se u mapi `docs/`.
 
-## 📊 Rezultati
+##  Rezultati
 Grafovi, slike i zapažanja nalaze se u mapi `results/`.
 
-## 🖥️ Prezentacija
+##  Prezentacija
 Završna prezentacija projekta bit će spremljena u mapi `presentation/`.
