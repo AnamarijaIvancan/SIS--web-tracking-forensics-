@@ -1,8 +1,8 @@
 # --- sensitive / large files ---
-cookies.db
-traffic.mitm
 *.db
 *.mitm
+cookies.db
+traffic.mitm
 
 # --- python ---
 __pycache__/
@@ -10,6 +10,7 @@ __pycache__/
 .venv/
 .env
 
-# --- OS ---
+# --- OS / editor ---
 .DS_Store
 Thumbs.db
+.vscode/
