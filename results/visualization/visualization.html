@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Tracking Visualization (Pages → Fingerprinting Trackers)</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; }
+    header { padding: 12px 16px; border-bottom: 1px solid #ddd; }
+    .wrap { display: grid; grid-template-columns: 2fr 1fr; gap: 12px; padding: 12px; }
+    .card { border: 1px solid #ddd; border-radius: 10px; padding: 10px; }
+    #graph { width: 100%; height: 680px; }
+    #bar { width: 100%; height: 680px; }
+    .small { color: #666; font-size: 12px; }
+  </style>
+</head>
+<body>
+<header>
+  <div><b>Pages → Fingerprinting third-parties</b></div>
+  <div class="small">Data source: results/visualization/graph_data.json</div>
+  <div id="stats" class="small"></div>
+  <div class="small">
+    <span style="color:#1f77b4; font-weight:bold;">●</span> Page (visited site) &nbsp;&nbsp;
+    <span style="color:#ff7f0e; font-weight:bold;">●</span> Fingerprinting third-party tracker
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="card">
+    <div><b>Network graph</b></div>
+    <svg id="graph"></svg>
+    <div class="small">Hover nodes for details. Drag nodes to rearrange.</div>
+  </div>
+
+  <div class="card">
+    <div><b>Top pages by number of FP trackers</b></div>
+    <svg id="bar"></svg>
+    <div class="small">Hover bars for exact values.</div>
+  </div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+(async function () {
+  const data = await fetch("./graph_data.json").then(r => r.json());
+
+  // --- Stats header ---
+  const statsEl = document.getElementById("stats");
+  statsEl.textContent =
+    `Pages with fingerprinting: ${data.stats.pages_with_fp} | ` +
+    `Unique trackers: ${data.stats.unique_trackers} | ` +
+    `Links: ${data.stats.total_links}`;
+
+  // Helper maps for tooltips + sizing
+  const barMap = new Map((data.bar || []).map(x => [x.page, x.tracker_count]));
+  const trackerMap = new Map((data.tracker_stats || []).map(x => [x.tracker, x.pages_count]));
+
+  // ----- Network graph -----
+  const svg = d3.select("#graph");
+  const width = svg.node().clientWidth || 900;
+  const height = 680;
+  svg.attr("viewBox", [0, 0, width, height]);
+
+  const nodes = (data.nodes || []).map(d => ({...d}));
+  const rawLinks = (data.links || []).map(d => ({...d}));
+
+  // Remove self-links if any slipped in (source === target)
+  const links = rawLinks.filter(l => l.source !== l.target);
+
+  const simulation = d3.forceSimulation(nodes)
+    .force("link", d3.forceLink(links).id(d => d.id).distance(90))
+    .force("charge", d3.forceManyBody().strength(-160))
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+  const link = svg.append("g")
+    .attr("stroke", "#999")
+    .attr("stroke-opacity", 0.6)
+    .selectAll("line")
+    .data(links)
+    .join("line")
+    .attr("stroke-width", 1);
+
+  const node = svg.append("g")
+    .attr("stroke", "#fff")
+    .attr("stroke-width", 1.5)
+    .selectAll("circle")
+    .data(nodes)
+    .join("circle")
+    .attr("r", d => {
+      if (d.type === "page") {
+        const c = barMap.get(d.id) ?? 0;
+        return 6 + Math.min(10, c);      // page larger if it loads more FP trackers
+      } else {
+        const p = trackerMap.get(d.id) ?? 0;
+        return 4 + Math.min(8, p);       // tracker larger if it appears on more pages
+      }
+    })
+    .attr("fill", d => d.type === "page" ? "#1f77b4" : "#ff7f0e")
+    .call(d3.drag()
+      .on("start", dragstarted)
+      .on("drag", dragged)
+      .on("end", dragended));
+
+  // Better tooltips (browser native)
+  node.append("title").text(d => {
+    if (d.type === "page") {
+      const c = barMap.get(d.id) ?? 0;
+      return `PAGE: ${d.id}\nFP trackers: ${c}`;
+    } else {
+      const p = trackerMap.get(d.id) ?? 0;
+      return `TRACKER: ${d.id}\nSeen on pages: ${p}`;
+    }
+  });
+
+  simulation.on("tick", () => {
+    link
+      .attr("x1", d => d.source.x)
+      .attr("y1", d => d.source.y)
+      .attr("x2", d => d.target.x)
+      .attr("y2", d => d.target.y);
+
+    node
+      .attr("cx", d => d.x)
+      .attr("cy", d => d.y);
+  });
+
+  function dragstarted(event, d) {
+    if (!event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x; d.fy = d.y;
+  }
+  function dragged(event, d) {
+    d.fx = event.x; d.fy = event.y;
+  }
+  function dragended(event, d) {
+    if (!event.active) simulation.alphaTarget(0);
+    d.fx = null; d.fy = null;
+  }
+
+  // ----- Bar chart -----
+  const barSvg = d3.select("#bar");
+  const bw = barSvg.node().clientWidth || 420;
+  const bh = 680;
+  barSvg.attr("viewBox", [0, 0, bw, bh]);
+
+  const margin = {top: 20, right: 20, bottom: 150, left: 50};
+  const innerW = bw - margin.left - margin.right;
+  const innerH = bh - margin.top - margin.bottom;
+
+  const top = (data.bar || []).slice(0, 12); // top 12 pages
+  const x = d3.scaleBand()
+    .domain(top.map(d => d.page))
+    .range([0, innerW])
+    .padding(0.2);
+
+  const y = d3.scaleLinear()
+    .domain([0, d3.max(top, d => d.tracker_count) || 1]).nice()
+    .range([innerH, 0]);
+
+  const g = barSvg.append("g").attr("transform", `translate(${margin.left},${margin.top})`);
+
+  g.append("g").call(d3.axisLeft(y).ticks(6));
+
+  g.append("g")
+    .attr("transform", `translate(0,${innerH})`)
+    .call(d3.axisBottom(x))
+    .selectAll("text")
+      .attr("transform", "rotate(-35)")
+      .style("text-anchor", "end");
+
+  const bars = g.selectAll("rect")
+    .data(top)
+    .join("rect")
+    .attr("x", d => x(d.page))
+    .attr("y", d => y(d.tracker_count))
+    .attr("width", x.bandwidth())
+    .attr("height", d => innerH - y(d.tracker_count))
+    .attr("fill", "#2ca02c");
+
+  bars.append("title")
+    .text(d => `${d.page}\nFP trackers: ${d.tracker_count}`);
+
+})();
+</script>
+</body>
+</html>

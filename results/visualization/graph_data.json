@@ -1,0 +1,343 @@
+{
+  "nodes": [
+    {
+      "id": "facebook.com",
+      "type": "page"
+    },
+    {
+      "id": "static.xx.fbcdn.net",
+      "type": "tracker"
+    },
+    {
+      "id": "fbsbx.com",
+      "type": "page"
+    },
+    {
+      "id": "dan.co.me",
+      "type": "page"
+    },
+    {
+      "id": "accounts.google.com",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.ampproject.org",
+      "type": "tracker"
+    },
+    {
+      "id": "connect.facebook.net",
+      "type": "tracker"
+    },
+    {
+      "id": "googletagmanager.com",
+      "type": "tracker"
+    },
+    {
+      "id": "gstatic.com",
+      "type": "tracker"
+    },
+    {
+      "id": "oglasi.dan.co.me",
+      "type": "tracker"
+    },
+    {
+      "id": "pagead2.googlesyndication.com",
+      "type": "tracker"
+    },
+    {
+      "id": "securepubads.g.doubleclick.net",
+      "type": "tracker"
+    },
+    {
+      "id": "google.com",
+      "type": "page"
+    },
+    {
+      "id": "vijesti.me",
+      "type": "page"
+    },
+    {
+      "id": "cmp.inmobi.com",
+      "type": "tracker"
+    },
+    {
+      "id": "instagram.com",
+      "type": "tracker"
+    },
+    {
+      "id": "platform.twitter.com",
+      "type": "tracker"
+    },
+    {
+      "id": "vecernji.hr",
+      "type": "page"
+    },
+    {
+      "id": "cdn.jsdelivr.net",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.onnetwork.tv",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.tinypass.com",
+      "type": "tracker"
+    },
+    {
+      "id": "code.jquery.com",
+      "type": "tracker"
+    },
+    {
+      "id": "ezojs.com",
+      "type": "tracker"
+    },
+    {
+      "id": "imasdk.googleapis.com",
+      "type": "tracker"
+    },
+    {
+      "id": "sdk.privacy-center.org",
+      "type": "tracker"
+    }
+  ],
+  "links": [
+    {
+      "source": "facebook.com",
+      "target": "static.xx.fbcdn.net"
+    },
+    {
+      "source": "fbsbx.com",
+      "target": "static.xx.fbcdn.net"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "accounts.google.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "cdn.ampproject.org"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "facebook.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "oglasi.dan.co.me"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "securepubads.g.doubleclick.net"
+    },
+    {
+      "source": "google.com",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "google.com",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "vijesti.me",
+      "target": "cmp.inmobi.com"
+    },
+    {
+      "source": "vijesti.me",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "vijesti.me",
+      "target": "instagram.com"
+    },
+    {
+      "source": "vijesti.me",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "vijesti.me",
+      "target": "platform.twitter.com"
+    },
+    {
+      "source": "vijesti.me",
+      "target": "securepubads.g.doubleclick.net"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "accounts.google.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "cdn.jsdelivr.net"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "cdn.onnetwork.tv"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "cdn.tinypass.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "code.jquery.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "ezojs.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "imasdk.googleapis.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "sdk.privacy-center.org"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "securepubads.g.doubleclick.net"
+    }
+  ],
+  "bar": [
+    {
+      "page": "vecernji.hr",
+      "tracker_count": 12
+    },
+    {
+      "page": "dan.co.me",
+      "tracker_count": 9
+    },
+    {
+      "page": "vijesti.me",
+      "tracker_count": 6
+    },
+    {
+      "page": "google.com",
+      "tracker_count": 2
+    },
+    {
+      "page": "facebook.com",
+      "tracker_count": 1
+    },
+    {
+      "page": "fbsbx.com",
+      "tracker_count": 1
+    }
+  ],
+  "stats": {
+    "pages_with_fp": 6,
+    "unique_trackers": 19,
+    "total_links": 31
+  },
+  "tracker_stats": [
+    {
+      "tracker": "pagead2.googlesyndication.com",
+      "pages_count": 4
+    },
+    {
+      "tracker": "googletagmanager.com",
+      "pages_count": 3
+    },
+    {
+      "tracker": "securepubads.g.doubleclick.net",
+      "pages_count": 3
+    },
+    {
+      "tracker": "static.xx.fbcdn.net",
+      "pages_count": 2
+    },
+    {
+      "tracker": "accounts.google.com",
+      "pages_count": 2
+    },
+    {
+      "tracker": "connect.facebook.net",
+      "pages_count": 2
+    },
+    {
+      "tracker": "gstatic.com",
+      "pages_count": 2
+    },
+    {
+      "tracker": "cdn.ampproject.org",
+      "pages_count": 1
+    },
+    {
+      "tracker": "facebook.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "oglasi.dan.co.me",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cmp.inmobi.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "instagram.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "platform.twitter.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.jsdelivr.net",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.onnetwork.tv",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.tinypass.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "code.jquery.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "ezojs.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "imasdk.googleapis.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "sdk.privacy-center.org",
+      "pages_count": 1
+    }
+  ]
+}
