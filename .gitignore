@@ -1,0 +1,15 @@
+# --- sensitive / large files ---
+cookies.db
+traffic.mitm
+*.db
+*.mitm
+
+# --- python ---
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# --- OS ---
+.DS_Store
+Thumbs.db
