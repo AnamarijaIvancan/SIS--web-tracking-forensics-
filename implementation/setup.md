@@ -32,7 +32,6 @@ python implementation/src/detect_fingerprinting.py
 
 Na temelju podataka iz baze generira se datoteka za vizualizaciju odnosa između stranica
 i trackera:
-
 python implementation/src/export_for_visualization.py
 
 Vizualizacija se prikazuje otvaranjem HTML datoteke:
