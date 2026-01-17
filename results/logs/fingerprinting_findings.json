@@ -1,0 +1,417 @@
+{
+  "total_flows": 1814,
+  "scanned_html_js": 715,
+  "fp_trackers_detected": [
+    {
+      "domain": "accounts.google.com",
+      "keywords": [
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "ads.eu.criteo.com",
+      "keywords": [
+        "canvas",
+        "devicepixelratio"
+      ]
+    },
+    {
+      "domain": "cdn.ampproject.org",
+      "keywords": [
+        "devicepixelratio",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "cdn.jsdelivr.net",
+      "keywords": [
+        "devicepixelratio"
+      ]
+    },
+    {
+      "domain": "cdn.onnetwork.tv",
+      "keywords": [
+        "canvas"
+      ]
+    },
+    {
+      "domain": "cdn.tinypass.com",
+      "keywords": [
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "cmp.inmobi.com",
+      "keywords": [
+        "canvas",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "code.jquery.com",
+      "keywords": [
+        "canvas"
+      ]
+    },
+    {
+      "domain": "connect.facebook.net",
+      "keywords": [
+        "canvas",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "dan.co.me",
+      "keywords": [
+        "canvas",
+        "devicepixelratio",
+        "getimagedata",
+        "screen.height",
+        "screen.width",
+        "todataurl"
+      ]
+    },
+    {
+      "domain": "ezojs.com",
+      "keywords": [
+        "canvas"
+      ]
+    },
+    {
+      "domain": "facebook.com",
+      "keywords": [
+        "canvas"
+      ]
+    },
+    {
+      "domain": "googletagmanager.com",
+      "keywords": [
+        "canvas"
+      ]
+    },
+    {
+      "domain": "gstatic.com",
+      "keywords": [
+        "canvas",
+        "enumeratedevices",
+        "mediadevices",
+        "navigator.devicememory",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "imasdk.googleapis.com",
+      "keywords": [
+        "canvas",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "instagram.com",
+      "keywords": [
+        "devicepixelratio"
+      ]
+    },
+    {
+      "domain": "oglasi.dan.co.me",
+      "keywords": [
+        "canvas",
+        "devicepixelratio"
+      ]
+    },
+    {
+      "domain": "pagead2.googlesyndication.com",
+      "keywords": [
+        "canvas",
+        "devicepixelratio",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "platform.twitter.com",
+      "keywords": [
+        "devicepixelratio"
+      ]
+    },
+    {
+      "domain": "sdk.privacy-center.org",
+      "keywords": [
+        "navigator.languages"
+      ]
+    },
+    {
+      "domain": "securepubads.g.doubleclick.net",
+      "keywords": [
+        "devicepixelratio",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "spotlight.offerista.com",
+      "keywords": [
+        "devicepixelratio",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "domain": "static.xx.fbcdn.net",
+      "keywords": [
+        "audiocontext",
+        "canvas",
+        "devicepixelratio",
+        "getimagedata",
+        "getparameter",
+        "mediadevices",
+        "navigator.devicememory",
+        "navigator.hardwareconcurrency",
+        "navigator.languages",
+        "navigator.mimetypes",
+        "navigator.plugins",
+        "navigator.webdriver",
+        "rtcpeerconnection",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width",
+        "todataurl",
+        "webgl_debug_renderer_info"
+      ]
+    },
+    {
+      "domain": "vecernji.hr",
+      "keywords": [
+        "canvas",
+        "devicepixelratio",
+        "getparameter",
+        "screen.height",
+        "screen.width",
+        "todataurl",
+        "webglrenderingcontext"
+      ]
+    },
+    {
+      "domain": "vijesti.me",
+      "keywords": [
+        "devicepixelratio",
+        "screen.width"
+      ]
+    }
+  ],
+  "mapping_stats": {
+    "referer_present": 1017,
+    "origin_present": 417,
+    "mapped_hits": 774,
+    "pages_marked": 10
+  },
+  "pages_marked": [
+    {
+      "page_domain": "dan.co.me",
+      "fp_third_parties": [
+        "accounts.google.com",
+        "cdn.ampproject.org",
+        "connect.facebook.net",
+        "dan.co.me",
+        "facebook.com",
+        "googletagmanager.com",
+        "gstatic.com",
+        "oglasi.dan.co.me",
+        "pagead2.googlesyndication.com",
+        "securepubads.g.doubleclick.net"
+      ],
+      "keywords": [
+        "canvas",
+        "devicepixelratio",
+        "enumeratedevices",
+        "getimagedata",
+        "mediadevices",
+        "navigator.devicememory",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width",
+        "todataurl"
+      ]
+    },
+    {
+      "page_domain": "ezojs.com",
+      "fp_third_parties": [
+        "ezojs.com"
+      ],
+      "keywords": [
+        "canvas"
+      ]
+    },
+    {
+      "page_domain": "facebook.com",
+      "fp_third_parties": [
+        "facebook.com",
+        "static.xx.fbcdn.net"
+      ],
+      "keywords": [
+        "audiocontext",
+        "canvas",
+        "devicepixelratio",
+        "getimagedata",
+        "getparameter",
+        "mediadevices",
+        "navigator.devicememory",
+        "navigator.hardwareconcurrency",
+        "navigator.languages",
+        "navigator.mimetypes",
+        "navigator.plugins",
+        "navigator.webdriver",
+        "rtcpeerconnection",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width",
+        "todataurl",
+        "webgl_debug_renderer_info"
+      ]
+    },
+    {
+      "page_domain": "fbsbx.com",
+      "fp_third_parties": [
+        "static.xx.fbcdn.net"
+      ],
+      "keywords": [
+        "audiocontext",
+        "canvas",
+        "devicepixelratio",
+        "getimagedata",
+        "getparameter",
+        "mediadevices",
+        "navigator.devicememory",
+        "navigator.hardwareconcurrency",
+        "navigator.languages",
+        "navigator.mimetypes",
+        "navigator.plugins",
+        "navigator.webdriver",
+        "rtcpeerconnection",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width",
+        "todataurl",
+        "webgl_debug_renderer_info"
+      ]
+    },
+    {
+      "page_domain": "google.com",
+      "fp_third_parties": [
+        "gstatic.com",
+        "pagead2.googlesyndication.com"
+      ],
+      "keywords": [
+        "canvas",
+        "devicepixelratio",
+        "enumeratedevices",
+        "mediadevices",
+        "navigator.devicememory",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "page_domain": "googletagmanager.com",
+      "fp_third_parties": [
+        "googletagmanager.com"
+      ],
+      "keywords": [
+        "canvas"
+      ]
+    },
+    {
+      "page_domain": "gstatic.com",
+      "fp_third_parties": [
+        "gstatic.com"
+      ],
+      "keywords": [
+        "canvas",
+        "enumeratedevices",
+        "mediadevices",
+        "navigator.devicememory",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width"
+      ]
+    },
+    {
+      "page_domain": "instagram.com",
+      "fp_third_parties": [
+        "instagram.com"
+      ],
+      "keywords": [
+        "devicepixelratio"
+      ]
+    },
+    {
+      "page_domain": "vecernji.hr",
+      "fp_third_parties": [
+        "accounts.google.com",
+        "cdn.jsdelivr.net",
+        "cdn.onnetwork.tv",
+        "cdn.tinypass.com",
+        "code.jquery.com",
+        "connect.facebook.net",
+        "ezojs.com",
+        "googletagmanager.com",
+        "imasdk.googleapis.com",
+        "pagead2.googlesyndication.com",
+        "sdk.privacy-center.org",
+        "securepubads.g.doubleclick.net",
+        "vecernji.hr"
+      ],
+      "keywords": [
+        "canvas",
+        "devicepixelratio",
+        "getparameter",
+        "navigator.languages",
+        "screen.availheight",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width",
+        "todataurl",
+        "webglrenderingcontext"
+      ]
+    },
+    {
+      "page_domain": "vijesti.me",
+      "fp_third_parties": [
+        "cmp.inmobi.com",
+        "googletagmanager.com",
+        "instagram.com",
+        "pagead2.googlesyndication.com",
+        "platform.twitter.com",
+        "securepubads.g.doubleclick.net",
+        "vijesti.me"
+      ],
+      "keywords": [
+        "canvas",
+        "devicepixelratio",
+        "screen.availwidth",
+        "screen.height",
+        "screen.width"
+      ]
+    }
+  ]
+}
