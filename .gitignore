@@ -1,25 +1,6 @@
-# Općenito
-.DS_Store
-Thumbs.db
-
-# IDE / Editor postavke
-.vscode/
-.idea/
-
-# Python / Node / Build datoteke (ako ih bude)
+*.db
+*.mitm
 __pycache__/
 *.pyc
-venv/
-node_modules/
-dist/
-build/
-out/
-
-# Logovi i privremene datoteke
-*.log
-*.tmp
-*.cache
-
-# Slike i veliki fajlovi koji ne trebaju u git
-results/screenshots/*
-results/logs/*
+.venv/
+.env
