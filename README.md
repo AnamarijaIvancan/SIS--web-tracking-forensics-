@@ -35,8 +35,8 @@ project-name/
 │
 ├── implementation/
 │ ├── setup.md # Upute za pokretanje
-│ ├── src/ # Izvorni kod i skripte
-│ └── tests/ # Testni podaci i skripte
+│ ├── src/ # Kod-intenzitet
+│ └── tests/ # Kod-za report
 │
 ├── results/
 │ ├── screenshots/ # Slike i grafovi rezultata
