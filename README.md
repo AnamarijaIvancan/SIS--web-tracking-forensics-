@@ -9,10 +9,10 @@ Cilj je izraditi sustav koji:
 4. Vizualizira veze između web stranica i trećih strana koje prate korisnika.
 
 ## Članovi tima
-- Student 1 – Analiza mrežnog prometa  
-- Student 2 – Baza podataka i backend  
-- Student 3 – Detekcija i klasifikacija trackera  
-- Student 4 – Vizualizacija i izvještavanje
+- Student 1 – Gabriel Vesel  
+- Student 2 – Jakov Bišćan  
+- Student 3 – Anamarija Ivančan 
+- Student 4 – Karlo Jurič
 
 ## Cilj projekta
 Razviti okvir (framework) koji omogućuje:
