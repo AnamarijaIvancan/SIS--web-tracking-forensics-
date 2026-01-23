@@ -10,9 +10,9 @@ Cilj je izraditi sustav koji:
 
 ## Članovi tima
 - Gabriel Vesel - Snimanje i analiza HTTP/HTTPS prometa, identifikacija kolačića i osnovnih oblika praćenja korisnika.
-– Jakov Bišćan  - Implementacija skripti za obradu prikupljenih podataka, pohrana u bazu podataka i priprema podataka za daljnju analizu.
-– Anamarija Ivančan - Razvoj logike za detekciju third-party trackera i browser fingerprintinga te njihova klasifikacija prema vrsti praćenja.
-– Karlo Jurič - Izrada vizualizacija rezultata (grafovi, HTML prikazi), priprema izvještaja i prezentacija projekta.
+- Jakov Bišćan  - Implementacija skripti za obradu prikupljenih podataka, pohrana u bazu podataka i priprema podataka za daljnju analizu.
+- Anamarija Ivančan - Razvoj logike za detekciju third-party trackera i browser fingerprintinga te njihova klasifikacija prema vrsti praćenja.
+- Karlo Jurič - Izrada vizualizacija rezultata (grafovi, HTML prikazi), priprema izvještaja i prezentacija projekta.
 
 ## Cilj projekta
 Razviti okvir (framework) koji omogućuje:
