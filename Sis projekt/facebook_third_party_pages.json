@@ -1,0 +1,80 @@
+{
+  "generated": "2026-01-20T15:02:10.774021+00:00",
+  "total_pages_with_facebook_third_party": 8,
+  "hits": [
+    {
+      "page": "24sata.hr",
+      "fingerprinting": 1,
+      "facebook_markers_found": [
+        "connect.facebook.net"
+      ],
+      "fp_third_parties": "24sata.hr, apis.google.com, connect.facebook.net, delivery.adrecover.com, google.com, googletagmanager.com, instagram.com, platform.twitter.com, s-eu-1.pushpushgo.com, script.dotmetrics.net, widgets.sofascore.com, zipthelake.com",
+      "fp_keywords": "audiocontext, canvas, devicepixelratio, enumeratedevices, getimagedata, getparameter, mediadevices, navigator.languages, navigator.mimetypes, navigator.plugins, offlineaudiocontext, screen.availheight, screen.availwidth, screen.height, screen.width, todataurl, webgl_debug_renderer_info, webglrenderingcontext"
+    },
+    {
+      "page": "dan.co.me",
+      "fingerprinting": 1,
+      "facebook_markers_found": [
+        "facebook.com",
+        "connect.facebook.net"
+      ],
+      "fp_third_parties": "accounts.google.com, adria.contentexchange.me, analytics.contentexchange.me, cdnjs.cloudflare.com, connect.facebook.net, dan.co.me, facebook.com, google.com, googleadservices.com, googletagmanager.com, securepubads.g.doubleclick.net",
+      "fp_keywords": "canvas, devicepixelratio, getimagedata, getparameter, navigator.hardwareconcurrency, navigator.languages, navigator.plugins, screen.availheight, screen.availwidth, screen.height, screen.width, todataurl, webgl_debug_renderer_info, webglrenderingcontext"
+    },
+    {
+      "page": "dnevnik.hr",
+      "fingerprinting": 1,
+      "facebook_markers_found": [
+        "connect.facebook.net"
+      ],
+      "fp_third_parties": "0.html-load.com, 1.html-load.com, 2.html-load.com, 3.html-load.com, 4.html-load.com, 5.html-load.com, 6.html-load.com, 8.html-load.com, 9.html-load.com, analytics.contentexchange.me, connect.facebook.net, d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com, freshatl.azurewebsites.net, google.com, googleadservices.com, googletagmanager.com, gstatic.com, html-load.com, platform.twitter.com, player.target-video.com, script.dotmetrics.net, sdk.privacy-center.org, tentacles.smartocto.com, ughr.contentexchange.me, widget.dnevnik.hr",
+      "fp_keywords": "audiocontext, canvas, devicepixelratio, enumeratedevices, getimagedata, getparameter, mediadevices, navigator.devicememory, navigator.hardwareconcurrency, navigator.languages, navigator.mimetypes, navigator.plugins, navigator.webdriver, offlineaudiocontext, screen.availheight, screen.availwidth, screen.height, screen.width, todataurl, webgl_debug_renderer_info, webglrenderingcontext"
+    },
+    {
+      "page": "google.com",
+      "fingerprinting": 1,
+      "facebook_markers_found": [
+        "facebook.com"
+      ],
+      "fp_third_parties": "accounts.google.com, bbc.com, bigbang.hr, ekupi.hr, facebook.com, google.com, googleadservices.com, googletagmanager.com, gstatic.com, jutarnji.hr, links.hr, njuskalo.hr, nytimes.com, pagead2.googlesyndication.com, play.google.com, theguardian.com",
+      "fp_keywords": "canvas, devicepixelratio, enumeratedevices, getimagedata, getparameter, mediadevices, navigator.devicememory, screen.availheight, screen.availwidth, screen.height, screen.width, todataurl"
+    },
+    {
+      "page": "index.hr",
+      "fingerprinting": 1,
+      "facebook_markers_found": [
+        "connect.facebook.net"
+      ],
+      "fp_third_parties": "cdnjs.cloudflare.com, connect.facebook.net, delivery.adrecover.com, freshatl.azurewebsites.net, google.com, googletagmanager.com, gstatic.com, index.hr, platform.twitter.com, script.dotmetrics.net, sdk.privacy-center.org, tentacles.smartocto.com, zipthelake.com",
+      "fp_keywords": "audiocontext, canvas, devicepixelratio, enumeratedevices, getimagedata, getparameter, mediadevices, navigator.devicememory, navigator.hardwareconcurrency, navigator.languages, navigator.mimetypes, navigator.plugins, navigator.webdriver, offlineaudiocontext, screen.availheight, screen.availwidth, screen.height, screen.width, todataurl, webgl_debug_renderer_info, webglrenderingcontext"
+    },
+    {
+      "page": "jutarnji.hr",
+      "fingerprinting": 1,
+      "facebook_markers_found": [
+        "facebook.com",
+        "connect.facebook.net"
+      ],
+      "fp_third_parties": "cdn.cxense.com, cdn.jsdelivr.net, cdn.onnetwork.tv, cdn.tinypass.com, connect.facebook.net, d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com, delivery.adrecover.com, facebook.com, freshatl.azurewebsites.net, google.com, googletagmanager.com, gstatic.com, jutarnji.hr, platform.twitter.com, script.dotmetrics.net, sdk.privacy-center.org, tentacles.smartocto.com, truthsocial.com, zipthelake.com",
+      "fp_keywords": "audiocontext, canvas, devicepixelratio, enumeratedevices, getimagedata, getparameter, mediadevices, navigator.devicememory, navigator.languages, navigator.mimetypes, navigator.plugins, offlineaudiocontext, putimagedata, screen.availheight, screen.availwidth, screen.height, screen.width, todataurl, webgl_debug_renderer_info, webglrenderingcontext"
+    },
+    {
+      "page": "tportal.hr",
+      "fingerprinting": 1,
+      "facebook_markers_found": [
+        "connect.facebook.net"
+      ],
+      "fp_third_parties": "cdnjs.cloudflare.com, code.jquery.com, connect.facebook.net, googletagmanager.com, hr.hit.gemius.pl, js-agent.newrelic.com, s-eu-1.pushpushgo.com, script.dotmetrics.net, sdk.privacy-center.org, tportal.hr",
+      "fp_keywords": "audiocontext, canvas, devicepixelratio, enumeratedevices, getimagedata, getparameter, mediadevices, navigator.hardwareconcurrency, navigator.languages, navigator.mimetypes, navigator.plugins, navigator.webdriver, offlineaudiocontext, screen.availheight, screen.availwidth, screen.height, screen.width, todataurl, webgl_debug_renderer_info, webglrenderingcontext"
+    },
+    {
+      "page": "vecernji.hr",
+      "fingerprinting": 1,
+      "facebook_markers_found": [
+        "connect.facebook.net"
+      ],
+      "fp_third_parties": "24sata.hr, accounts.google.com, cdn.cxense.com, cdn.jsdelivr.net, cdn.onnetwork.tv, cdn.tinypass.com, connect.facebook.net, d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com, delivery.adrecover.com, embed.reddit.com, googletagmanager.com, hit.gemius.pl, pagead2.googlesyndication.com, s-eu-1.pushpushgo.com, script.dotmetrics.net, sdk.privacy-center.org, tentacles.smartocto.com, vecernji.hr, zipthelake.com",
+      "fp_keywords": "audiocontext, canvas, devicepixelratio, enumeratedevices, getimagedata, getparameter, mediadevices, navigator.languages, navigator.mimetypes, navigator.plugins, offlineaudiocontext, screen.availheight, screen.availwidth, screen.height, screen.width, todataurl, webgl_debug_renderer_info, webglrenderingcontext"
+    }
+  ]
+}

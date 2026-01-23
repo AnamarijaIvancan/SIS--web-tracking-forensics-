@@ -1,0 +1,108 @@
+{
+  "generated": "2026-01-20T15:07:37.448035+00:00",
+  "total_pages_with_facebook_third_party": 8,
+  "nodes": [
+    {
+      "id": "site:24sata.hr",
+      "label": "24sata.hr",
+      "type": "site"
+    },
+    {
+      "id": "tracker:connect.facebook.net",
+      "label": "connect.facebook.net",
+      "type": "tracker"
+    },
+    {
+      "id": "site:dan.co.me",
+      "label": "dan.co.me",
+      "type": "site"
+    },
+    {
+      "id": "tracker:facebook.com",
+      "label": "facebook.com",
+      "type": "tracker"
+    },
+    {
+      "id": "site:dnevnik.hr",
+      "label": "dnevnik.hr",
+      "type": "site"
+    },
+    {
+      "id": "site:google.com",
+      "label": "google.com",
+      "type": "site"
+    },
+    {
+      "id": "site:index.hr",
+      "label": "index.hr",
+      "type": "site"
+    },
+    {
+      "id": "site:jutarnji.hr",
+      "label": "jutarnji.hr",
+      "type": "site"
+    },
+    {
+      "id": "site:tportal.hr",
+      "label": "tportal.hr",
+      "type": "site"
+    },
+    {
+      "id": "site:vecernji.hr",
+      "label": "vecernji.hr",
+      "type": "site"
+    }
+  ],
+  "links": [
+    {
+      "source": "site:24sata.hr",
+      "target": "tracker:connect.facebook.net",
+      "weight": 1
+    },
+    {
+      "source": "site:dan.co.me",
+      "target": "tracker:facebook.com",
+      "weight": 1
+    },
+    {
+      "source": "site:dan.co.me",
+      "target": "tracker:connect.facebook.net",
+      "weight": 1
+    },
+    {
+      "source": "site:dnevnik.hr",
+      "target": "tracker:connect.facebook.net",
+      "weight": 1
+    },
+    {
+      "source": "site:google.com",
+      "target": "tracker:facebook.com",
+      "weight": 1
+    },
+    {
+      "source": "site:index.hr",
+      "target": "tracker:connect.facebook.net",
+      "weight": 1
+    },
+    {
+      "source": "site:jutarnji.hr",
+      "target": "tracker:facebook.com",
+      "weight": 1
+    },
+    {
+      "source": "site:jutarnji.hr",
+      "target": "tracker:connect.facebook.net",
+      "weight": 1
+    },
+    {
+      "source": "site:tportal.hr",
+      "target": "tracker:connect.facebook.net",
+      "weight": 1
+    },
+    {
+      "source": "site:vecernji.hr",
+      "target": "tracker:connect.facebook.net",
+      "weight": 1
+    }
+  ]
+}

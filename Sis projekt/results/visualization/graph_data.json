@@ -1,0 +1,1599 @@
+{
+  "nodes": [
+    {
+      "id": "gstatic.com",
+      "type": "page"
+    },
+    {
+      "id": "google.com",
+      "type": "page"
+    },
+    {
+      "id": "accounts.google.com",
+      "type": "tracker"
+    },
+    {
+      "id": "bbc.com",
+      "type": "tracker"
+    },
+    {
+      "id": "bigbang.hr",
+      "type": "tracker"
+    },
+    {
+      "id": "ekupi.hr",
+      "type": "tracker"
+    },
+    {
+      "id": "facebook.com",
+      "type": "tracker"
+    },
+    {
+      "id": "googleadservices.com",
+      "type": "tracker"
+    },
+    {
+      "id": "googletagmanager.com",
+      "type": "tracker"
+    },
+    {
+      "id": "jutarnji.hr",
+      "type": "tracker"
+    },
+    {
+      "id": "links.hr",
+      "type": "tracker"
+    },
+    {
+      "id": "njuskalo.hr",
+      "type": "tracker"
+    },
+    {
+      "id": "nytimes.com",
+      "type": "tracker"
+    },
+    {
+      "id": "pagead2.googlesyndication.com",
+      "type": "tracker"
+    },
+    {
+      "id": "play.google.com",
+      "type": "tracker"
+    },
+    {
+      "id": "theguardian.com",
+      "type": "tracker"
+    },
+    {
+      "id": "static.xx.fbcdn.net",
+      "type": "tracker"
+    },
+    {
+      "id": "24sata.hr",
+      "type": "page"
+    },
+    {
+      "id": "apis.google.com",
+      "type": "tracker"
+    },
+    {
+      "id": "connect.facebook.net",
+      "type": "tracker"
+    },
+    {
+      "id": "delivery.adrecover.com",
+      "type": "tracker"
+    },
+    {
+      "id": "instagram.com",
+      "type": "tracker"
+    },
+    {
+      "id": "platform.twitter.com",
+      "type": "tracker"
+    },
+    {
+      "id": "s-eu-1.pushpushgo.com",
+      "type": "tracker"
+    },
+    {
+      "id": "script.dotmetrics.net",
+      "type": "tracker"
+    },
+    {
+      "id": "widgets.sofascore.com",
+      "type": "tracker"
+    },
+    {
+      "id": "zipthelake.com",
+      "type": "tracker"
+    },
+    {
+      "id": "youtube.com",
+      "type": "page"
+    },
+    {
+      "id": "24sata.tech",
+      "type": "page"
+    },
+    {
+      "id": "cdnjs.cloudflare.com",
+      "type": "tracker"
+    },
+    {
+      "id": "index.hr",
+      "type": "page"
+    },
+    {
+      "id": "freshatl.azurewebsites.net",
+      "type": "tracker"
+    },
+    {
+      "id": "sdk.privacy-center.org",
+      "type": "tracker"
+    },
+    {
+      "id": "tentacles.smartocto.com",
+      "type": "tracker"
+    },
+    {
+      "id": "t.contentsquare.net",
+      "type": "tracker"
+    },
+    {
+      "id": "instar-informatika.hr",
+      "type": "page"
+    },
+    {
+      "id": "twitch.tv",
+      "type": "page"
+    },
+    {
+      "id": "tportal.hr",
+      "type": "page"
+    },
+    {
+      "id": "code.jquery.com",
+      "type": "tracker"
+    },
+    {
+      "id": "hr.hit.gemius.pl",
+      "type": "tracker"
+    },
+    {
+      "id": "js-agent.newrelic.com",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.webpushr.com",
+      "type": "tracker"
+    },
+    {
+      "id": "consent.cookiebot.com",
+      "type": "tracker"
+    },
+    {
+      "id": "scripts.clarity.ms",
+      "type": "tracker"
+    },
+    {
+      "id": "vecernji.hr",
+      "type": "page"
+    },
+    {
+      "id": "cdn.cxense.com",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.jsdelivr.net",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.onnetwork.tv",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.tinypass.com",
+      "type": "tracker"
+    },
+    {
+      "id": "d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com",
+      "type": "tracker"
+    },
+    {
+      "id": "embed.reddit.com",
+      "type": "tracker"
+    },
+    {
+      "id": "hit.gemius.pl",
+      "type": "tracker"
+    },
+    {
+      "id": "redditstatic.com",
+      "type": "page"
+    },
+    {
+      "id": "truthsocial.com",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.cookie-script.com",
+      "type": "tracker"
+    },
+    {
+      "id": "analytics.tiktok.com",
+      "type": "tracker"
+    },
+    {
+      "id": "static.njuskalo.hr",
+      "type": "tracker"
+    },
+    {
+      "id": "bandlab.com",
+      "type": "page"
+    },
+    {
+      "id": "d2wzl9lnvjz3bh.cloudfront.net",
+      "type": "tracker"
+    },
+    {
+      "id": "dnevnik.hr",
+      "type": "page"
+    },
+    {
+      "id": "0.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "1.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "2.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "3.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "4.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "5.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "6.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "8.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "9.html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "analytics.contentexchange.me",
+      "type": "tracker"
+    },
+    {
+      "id": "html-load.com",
+      "type": "tracker"
+    },
+    {
+      "id": "player.target-video.com",
+      "type": "tracker"
+    },
+    {
+      "id": "ughr.contentexchange.me",
+      "type": "tracker"
+    },
+    {
+      "id": "widget.dnevnik.hr",
+      "type": "tracker"
+    },
+    {
+      "id": "dan.co.me",
+      "type": "page"
+    },
+    {
+      "id": "adria.contentexchange.me",
+      "type": "tracker"
+    },
+    {
+      "id": "securepubads.g.doubleclick.net",
+      "type": "tracker"
+    },
+    {
+      "id": "bug.hr",
+      "type": "page"
+    },
+    {
+      "id": "cdn.iframe.ly",
+      "type": "tracker"
+    },
+    {
+      "id": "fundingchoicesmessages.google.com",
+      "type": "tracker"
+    },
+    {
+      "id": "buy-eu.piano.io",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.privacy-mgmt.com",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.taboola.com",
+      "type": "tracker"
+    },
+    {
+      "id": "emp.bbci.co.uk",
+      "type": "tracker"
+    },
+    {
+      "id": "gn-web-assets.api.bbc.com",
+      "type": "tracker"
+    },
+    {
+      "id": "mybbc-analytics.files.bbci.co.uk",
+      "type": "tracker"
+    },
+    {
+      "id": "static.files.bbci.co.uk",
+      "type": "tracker"
+    },
+    {
+      "id": "tpc.googlesyndication.com",
+      "type": "tracker"
+    },
+    {
+      "id": "uk-script.dotmetrics.net",
+      "type": "tracker"
+    },
+    {
+      "id": "datadoghq-browser-agent.com",
+      "type": "tracker"
+    },
+    {
+      "id": "pay.google.com",
+      "type": "tracker"
+    },
+    {
+      "id": "s.go-mpulse.net",
+      "type": "tracker"
+    },
+    {
+      "id": "static01.nyt.com",
+      "type": "tracker"
+    },
+    {
+      "id": "assets.guim.co.uk",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.adsafeprotected.com",
+      "type": "tracker"
+    },
+    {
+      "id": "cdn.confiant-integrations.net",
+      "type": "tracker"
+    },
+    {
+      "id": "sourcepoint.theguardian.com",
+      "type": "tracker"
+    }
+  ],
+  "links": [
+    {
+      "source": "google.com",
+      "target": "accounts.google.com"
+    },
+    {
+      "source": "google.com",
+      "target": "bbc.com"
+    },
+    {
+      "source": "google.com",
+      "target": "bigbang.hr"
+    },
+    {
+      "source": "google.com",
+      "target": "ekupi.hr"
+    },
+    {
+      "source": "google.com",
+      "target": "facebook.com"
+    },
+    {
+      "source": "google.com",
+      "target": "googleadservices.com"
+    },
+    {
+      "source": "google.com",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "google.com",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "google.com",
+      "target": "jutarnji.hr"
+    },
+    {
+      "source": "google.com",
+      "target": "links.hr"
+    },
+    {
+      "source": "google.com",
+      "target": "njuskalo.hr"
+    },
+    {
+      "source": "google.com",
+      "target": "nytimes.com"
+    },
+    {
+      "source": "google.com",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "google.com",
+      "target": "play.google.com"
+    },
+    {
+      "source": "google.com",
+      "target": "theguardian.com"
+    },
+    {
+      "source": "googleadservices.com",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "facebook.com",
+      "target": "static.xx.fbcdn.net"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "apis.google.com"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "delivery.adrecover.com"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "instagram.com"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "platform.twitter.com"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "s-eu-1.pushpushgo.com"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "script.dotmetrics.net"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "widgets.sofascore.com"
+    },
+    {
+      "source": "24sata.hr",
+      "target": "zipthelake.com"
+    },
+    {
+      "source": "youtube.com",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "24sata.tech",
+      "target": "cdnjs.cloudflare.com"
+    },
+    {
+      "source": "index.hr",
+      "target": "cdnjs.cloudflare.com"
+    },
+    {
+      "source": "index.hr",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "index.hr",
+      "target": "delivery.adrecover.com"
+    },
+    {
+      "source": "index.hr",
+      "target": "freshatl.azurewebsites.net"
+    },
+    {
+      "source": "index.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "index.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "index.hr",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "index.hr",
+      "target": "platform.twitter.com"
+    },
+    {
+      "source": "index.hr",
+      "target": "script.dotmetrics.net"
+    },
+    {
+      "source": "index.hr",
+      "target": "sdk.privacy-center.org"
+    },
+    {
+      "source": "index.hr",
+      "target": "tentacles.smartocto.com"
+    },
+    {
+      "source": "index.hr",
+      "target": "zipthelake.com"
+    },
+    {
+      "source": "links.hr",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "links.hr",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "links.hr",
+      "target": "s-eu-1.pushpushgo.com"
+    },
+    {
+      "source": "links.hr",
+      "target": "t.contentsquare.net"
+    },
+    {
+      "source": "instar-informatika.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "instar-informatika.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "twitch.tv",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "cdnjs.cloudflare.com"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "code.jquery.com"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "hr.hit.gemius.pl"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "js-agent.newrelic.com"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "s-eu-1.pushpushgo.com"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "script.dotmetrics.net"
+    },
+    {
+      "source": "tportal.hr",
+      "target": "sdk.privacy-center.org"
+    },
+    {
+      "source": "ekupi.hr",
+      "target": "cdn.webpushr.com"
+    },
+    {
+      "source": "ekupi.hr",
+      "target": "consent.cookiebot.com"
+    },
+    {
+      "source": "ekupi.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "ekupi.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "ekupi.hr",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "ekupi.hr",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "ekupi.hr",
+      "target": "scripts.clarity.ms"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "24sata.hr"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "accounts.google.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "cdn.cxense.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "cdn.jsdelivr.net"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "cdn.onnetwork.tv"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "cdn.tinypass.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "delivery.adrecover.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "embed.reddit.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "hit.gemius.pl"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "s-eu-1.pushpushgo.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "script.dotmetrics.net"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "sdk.privacy-center.org"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "tentacles.smartocto.com"
+    },
+    {
+      "source": "vecernji.hr",
+      "target": "zipthelake.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "cdn.cxense.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "cdn.jsdelivr.net"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "cdn.onnetwork.tv"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "cdn.tinypass.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "delivery.adrecover.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "facebook.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "freshatl.azurewebsites.net"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "platform.twitter.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "script.dotmetrics.net"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "sdk.privacy-center.org"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "tentacles.smartocto.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "truthsocial.com"
+    },
+    {
+      "source": "jutarnji.hr",
+      "target": "zipthelake.com"
+    },
+    {
+      "source": "truthsocial.com",
+      "target": "cdn.cookie-script.com"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "analytics.tiktok.com"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "freshatl.azurewebsites.net"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "googleadservices.com"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "script.dotmetrics.net"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "sdk.privacy-center.org"
+    },
+    {
+      "source": "njuskalo.hr",
+      "target": "static.njuskalo.hr"
+    },
+    {
+      "source": "bandlab.com",
+      "target": "analytics.tiktok.com"
+    },
+    {
+      "source": "bandlab.com",
+      "target": "google.com"
+    },
+    {
+      "source": "bandlab.com",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "bandlab.com",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "bandlab.com",
+      "target": "redditstatic.com"
+    },
+    {
+      "source": "bigbang.hr",
+      "target": "consent.cookiebot.com"
+    },
+    {
+      "source": "bigbang.hr",
+      "target": "d2wzl9lnvjz3bh.cloudfront.net"
+    },
+    {
+      "source": "bigbang.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "bigbang.hr",
+      "target": "googleadservices.com"
+    },
+    {
+      "source": "bigbang.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "0.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "1.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "2.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "3.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "4.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "5.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "6.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "8.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "9.html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "analytics.contentexchange.me"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "freshatl.azurewebsites.net"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "googleadservices.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "html-load.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "platform.twitter.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "player.target-video.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "script.dotmetrics.net"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "sdk.privacy-center.org"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "tentacles.smartocto.com"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "ughr.contentexchange.me"
+    },
+    {
+      "source": "dnevnik.hr",
+      "target": "widget.dnevnik.hr"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "accounts.google.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "adria.contentexchange.me"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "analytics.contentexchange.me"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "cdnjs.cloudflare.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "connect.facebook.net"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "facebook.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "google.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "googleadservices.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "dan.co.me",
+      "target": "securepubads.g.doubleclick.net"
+    },
+    {
+      "source": "bug.hr",
+      "target": "cdn.iframe.ly"
+    },
+    {
+      "source": "bug.hr",
+      "target": "fundingchoicesmessages.google.com"
+    },
+    {
+      "source": "bug.hr",
+      "target": "google.com"
+    },
+    {
+      "source": "bug.hr",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "bug.hr",
+      "target": "script.dotmetrics.net"
+    },
+    {
+      "source": "bug.hr",
+      "target": "securepubads.g.doubleclick.net"
+    },
+    {
+      "source": "bbc.com",
+      "target": "buy-eu.piano.io"
+    },
+    {
+      "source": "bbc.com",
+      "target": "cdn.cxense.com"
+    },
+    {
+      "source": "bbc.com",
+      "target": "cdn.privacy-mgmt.com"
+    },
+    {
+      "source": "bbc.com",
+      "target": "cdn.taboola.com"
+    },
+    {
+      "source": "bbc.com",
+      "target": "cdn.tinypass.com"
+    },
+    {
+      "source": "bbc.com",
+      "target": "emp.bbci.co.uk"
+    },
+    {
+      "source": "bbc.com",
+      "target": "gn-web-assets.api.bbc.com"
+    },
+    {
+      "source": "bbc.com",
+      "target": "mybbc-analytics.files.bbci.co.uk"
+    },
+    {
+      "source": "bbc.com",
+      "target": "pagead2.googlesyndication.com"
+    },
+    {
+      "source": "bbc.com",
+      "target": "securepubads.g.doubleclick.net"
+    },
+    {
+      "source": "bbc.com",
+      "target": "static.files.bbci.co.uk"
+    },
+    {
+      "source": "bbc.com",
+      "target": "tpc.googlesyndication.com"
+    },
+    {
+      "source": "bbc.com",
+      "target": "uk-script.dotmetrics.net"
+    },
+    {
+      "source": "nytimes.com",
+      "target": "accounts.google.com"
+    },
+    {
+      "source": "nytimes.com",
+      "target": "datadoghq-browser-agent.com"
+    },
+    {
+      "source": "nytimes.com",
+      "target": "googletagmanager.com"
+    },
+    {
+      "source": "nytimes.com",
+      "target": "gstatic.com"
+    },
+    {
+      "source": "nytimes.com",
+      "target": "pay.google.com"
+    },
+    {
+      "source": "nytimes.com",
+      "target": "s.go-mpulse.net"
+    },
+    {
+      "source": "nytimes.com",
+      "target": "static01.nyt.com"
+    },
+    {
+      "source": "theguardian.com",
+      "target": "assets.guim.co.uk"
+    },
+    {
+      "source": "theguardian.com",
+      "target": "cdn.adsafeprotected.com"
+    },
+    {
+      "source": "theguardian.com",
+      "target": "cdn.confiant-integrations.net"
+    },
+    {
+      "source": "theguardian.com",
+      "target": "cdn.privacy-mgmt.com"
+    },
+    {
+      "source": "theguardian.com",
+      "target": "googleadservices.com"
+    },
+    {
+      "source": "theguardian.com",
+      "target": "securepubads.g.doubleclick.net"
+    },
+    {
+      "source": "theguardian.com",
+      "target": "sourcepoint.theguardian.com"
+    }
+  ],
+  "bar": [
+    {
+      "page": "dnevnik.hr",
+      "tracker_count": 25
+    },
+    {
+      "page": "vecernji.hr",
+      "tracker_count": 18
+    },
+    {
+      "page": "jutarnji.hr",
+      "tracker_count": 18
+    },
+    {
+      "page": "google.com",
+      "tracker_count": 15
+    },
+    {
+      "page": "bbc.com",
+      "tracker_count": 13
+    },
+    {
+      "page": "index.hr",
+      "tracker_count": 12
+    },
+    {
+      "page": "24sata.hr",
+      "tracker_count": 11
+    },
+    {
+      "page": "dan.co.me",
+      "tracker_count": 10
+    },
+    {
+      "page": "tportal.hr",
+      "tracker_count": 9
+    },
+    {
+      "page": "njuskalo.hr",
+      "tracker_count": 9
+    },
+    {
+      "page": "ekupi.hr",
+      "tracker_count": 7
+    },
+    {
+      "page": "nytimes.com",
+      "tracker_count": 7
+    },
+    {
+      "page": "theguardian.com",
+      "tracker_count": 7
+    },
+    {
+      "page": "bug.hr",
+      "tracker_count": 6
+    },
+    {
+      "page": "bandlab.com",
+      "tracker_count": 5
+    },
+    {
+      "page": "bigbang.hr",
+      "tracker_count": 5
+    },
+    {
+      "page": "links.hr",
+      "tracker_count": 4
+    },
+    {
+      "page": "instar-informatika.hr",
+      "tracker_count": 2
+    },
+    {
+      "page": "googleadservices.com",
+      "tracker_count": 1
+    },
+    {
+      "page": "facebook.com",
+      "tracker_count": 1
+    },
+    {
+      "page": "youtube.com",
+      "tracker_count": 1
+    },
+    {
+      "page": "24sata.tech",
+      "tracker_count": 1
+    },
+    {
+      "page": "twitch.tv",
+      "tracker_count": 1
+    },
+    {
+      "page": "truthsocial.com",
+      "tracker_count": 1
+    }
+  ],
+  "stats": {
+    "pages_with_fp": 24,
+    "unique_trackers": 82,
+    "total_links": 189
+  },
+  "tracker_stats": [
+    {
+      "tracker": "googletagmanager.com",
+      "pages_count": 15
+    },
+    {
+      "tracker": "google.com",
+      "pages_count": 11
+    },
+    {
+      "tracker": "gstatic.com",
+      "pages_count": 10
+    },
+    {
+      "tracker": "script.dotmetrics.net",
+      "pages_count": 8
+    },
+    {
+      "tracker": "pagead2.googlesyndication.com",
+      "pages_count": 7
+    },
+    {
+      "tracker": "connect.facebook.net",
+      "pages_count": 7
+    },
+    {
+      "tracker": "googleadservices.com",
+      "pages_count": 6
+    },
+    {
+      "tracker": "sdk.privacy-center.org",
+      "pages_count": 6
+    },
+    {
+      "tracker": "accounts.google.com",
+      "pages_count": 4
+    },
+    {
+      "tracker": "delivery.adrecover.com",
+      "pages_count": 4
+    },
+    {
+      "tracker": "platform.twitter.com",
+      "pages_count": 4
+    },
+    {
+      "tracker": "s-eu-1.pushpushgo.com",
+      "pages_count": 4
+    },
+    {
+      "tracker": "zipthelake.com",
+      "pages_count": 4
+    },
+    {
+      "tracker": "cdnjs.cloudflare.com",
+      "pages_count": 4
+    },
+    {
+      "tracker": "freshatl.azurewebsites.net",
+      "pages_count": 4
+    },
+    {
+      "tracker": "tentacles.smartocto.com",
+      "pages_count": 4
+    },
+    {
+      "tracker": "securepubads.g.doubleclick.net",
+      "pages_count": 4
+    },
+    {
+      "tracker": "facebook.com",
+      "pages_count": 3
+    },
+    {
+      "tracker": "cdn.cxense.com",
+      "pages_count": 3
+    },
+    {
+      "tracker": "cdn.tinypass.com",
+      "pages_count": 3
+    },
+    {
+      "tracker": "d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com",
+      "pages_count": 3
+    },
+    {
+      "tracker": "consent.cookiebot.com",
+      "pages_count": 2
+    },
+    {
+      "tracker": "cdn.jsdelivr.net",
+      "pages_count": 2
+    },
+    {
+      "tracker": "cdn.onnetwork.tv",
+      "pages_count": 2
+    },
+    {
+      "tracker": "analytics.tiktok.com",
+      "pages_count": 2
+    },
+    {
+      "tracker": "analytics.contentexchange.me",
+      "pages_count": 2
+    },
+    {
+      "tracker": "cdn.privacy-mgmt.com",
+      "pages_count": 2
+    },
+    {
+      "tracker": "bbc.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "bigbang.hr",
+      "pages_count": 1
+    },
+    {
+      "tracker": "ekupi.hr",
+      "pages_count": 1
+    },
+    {
+      "tracker": "jutarnji.hr",
+      "pages_count": 1
+    },
+    {
+      "tracker": "links.hr",
+      "pages_count": 1
+    },
+    {
+      "tracker": "njuskalo.hr",
+      "pages_count": 1
+    },
+    {
+      "tracker": "nytimes.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "play.google.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "theguardian.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "static.xx.fbcdn.net",
+      "pages_count": 1
+    },
+    {
+      "tracker": "apis.google.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "instagram.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "widgets.sofascore.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "t.contentsquare.net",
+      "pages_count": 1
+    },
+    {
+      "tracker": "code.jquery.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "hr.hit.gemius.pl",
+      "pages_count": 1
+    },
+    {
+      "tracker": "js-agent.newrelic.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.webpushr.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "scripts.clarity.ms",
+      "pages_count": 1
+    },
+    {
+      "tracker": "24sata.hr",
+      "pages_count": 1
+    },
+    {
+      "tracker": "embed.reddit.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "hit.gemius.pl",
+      "pages_count": 1
+    },
+    {
+      "tracker": "truthsocial.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.cookie-script.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "static.njuskalo.hr",
+      "pages_count": 1
+    },
+    {
+      "tracker": "redditstatic.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "d2wzl9lnvjz3bh.cloudfront.net",
+      "pages_count": 1
+    },
+    {
+      "tracker": "0.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "1.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "2.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "3.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "4.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "5.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "6.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "8.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "9.html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "html-load.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "player.target-video.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "ughr.contentexchange.me",
+      "pages_count": 1
+    },
+    {
+      "tracker": "widget.dnevnik.hr",
+      "pages_count": 1
+    },
+    {
+      "tracker": "adria.contentexchange.me",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.iframe.ly",
+      "pages_count": 1
+    },
+    {
+      "tracker": "fundingchoicesmessages.google.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "buy-eu.piano.io",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.taboola.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "emp.bbci.co.uk",
+      "pages_count": 1
+    },
+    {
+      "tracker": "gn-web-assets.api.bbc.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "mybbc-analytics.files.bbci.co.uk",
+      "pages_count": 1
+    },
+    {
+      "tracker": "static.files.bbci.co.uk",
+      "pages_count": 1
+    },
+    {
+      "tracker": "tpc.googlesyndication.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "uk-script.dotmetrics.net",
+      "pages_count": 1
+    },
+    {
+      "tracker": "datadoghq-browser-agent.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "pay.google.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "s.go-mpulse.net",
+      "pages_count": 1
+    },
+    {
+      "tracker": "static01.nyt.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "assets.guim.co.uk",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.adsafeprotected.com",
+      "pages_count": 1
+    },
+    {
+      "tracker": "cdn.confiant-integrations.net",
+      "pages_count": 1
+    },
+    {
+      "tracker": "sourcepoint.theguardian.com",
+      "pages_count": 1
+    }
+  ]
+}
